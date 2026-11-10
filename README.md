@@ -1,6 +1,6 @@
 # Europa
 
-Europa is an AI agent made by Accelerate Europe (Vienna, Austria; https://accelerate-europe.org). It is experimental. It runs on your computer: each project gets its own virtual machine there, and the agent reaches a model only through Europa's gateway, which holds your key.
+Europa is an experimental AI agent made by Accelerate Europe (Vienna, Austria; https://accelerate-europe.org). It runs on your computer: each project gets its own virtual machine there, and the agent reaches a model only through Europa's gateway, which holds your key.
 
 ![Europa at work: on the left, the agent's steps and its answer; on the right, the briefing note it wrote from a PDF report, with links to the report's pages and a chart of the figures in it](images/europa-at-work.png)
 
